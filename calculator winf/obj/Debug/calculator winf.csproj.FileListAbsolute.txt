@@ -1,0 +1,11 @@
+D:\Programming\C#\calculator winf\calculator winf\bin\Debug\calculator winf.exe.config
+D:\Programming\C#\calculator winf\calculator winf\bin\Debug\calculator winf.exe
+D:\Programming\C#\calculator winf\calculator winf\bin\Debug\calculator winf.pdb
+D:\Programming\C#\calculator winf\calculator winf\obj\Debug\calculator winf.csproj.AssemblyReference.cache
+D:\Programming\C#\calculator winf\calculator winf\obj\Debug\calculator winf.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C#\calculator winf\calculator winf\obj\Debug\calculator_winf.Form1.resources
+D:\Programming\C#\calculator winf\calculator winf\obj\Debug\calculator_winf.Properties.Resources.resources
+D:\Programming\C#\calculator winf\calculator winf\obj\Debug\calculator winf.csproj.GenerateResource.cache
+D:\Programming\C#\calculator winf\calculator winf\obj\Debug\calculator winf.csproj.CoreCompileInputs.cache
+D:\Programming\C#\calculator winf\calculator winf\obj\Debug\calculator winf.exe
+D:\Programming\C#\calculator winf\calculator winf\obj\Debug\calculator winf.pdb
